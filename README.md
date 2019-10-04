@@ -6,7 +6,7 @@
 ----------------
 1. Nandini Prashar – Team Leader
 2. Rajvir Singh
-3. Kamaldeep Kaur
+3. Kamalpreet Kaur
 4. Divyanshu Garg
 5. Dashmeet Singh - Mentor
 ---------------------------------------------------------------------------------
